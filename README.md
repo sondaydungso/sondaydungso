@@ -1,8 +1,7 @@
 ## Hi there, Im Son,
 - 🔭 I’m currently working on my side project to build a Meal Planner that integrates Cloud computing.
 - 🌱 I’m currently learning how to build a microservice application
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with finding a job
 - 💬 Ask me about anything, I will answer based on my knowledge base
 - 📫 How to reach me: nguyenthaison16012005@gmail.com / send me a text via: 0401232550
 - 😄 Pronouns: he/him
